@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/samueljovial21/samueljovial21/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
-<img src="https://raw.githubusercontent.com/samueljovial21/samueljovial21/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/samueljovial21/samueljovial21/main/headergitdark.gif#gh-dark-mode-only" align="center" height="225" />
+<img src="https://raw.githubusercontent.com/samueljovial21/samueljovial21/main/headergitlight.gif#gh-light-mode-only" align="center" height="225" />
 </div>  
 
 # <div align="center">Arduino Developer</div>  
