@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/samueljovial21/samueljovial21/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
 </div>  
 
-# <div align="center">Arduino Developer's</div>  
+# <div align="center">Arduino Developer</div>  
 
 ### <div align="center">I'm Sam, an Informatics Engineer.</div><br/>
   
