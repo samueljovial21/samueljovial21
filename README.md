@@ -1,9 +1,11 @@
 <div align="center">
-<img src="./headergitdark.gif" align="center" style="width: 100%" />
-</div>
-  
+<img src="https://raw.githubusercontent.com/samueljovial21/samueljovial21/main/headergitdark.gif#gh-dark-mode-only" align="center" height="325" />
+<img src="https://raw.githubusercontent.com/samueljovial21/samueljovial21/main/headergitlight.gif#gh-light-mode-only" align="center" height="325" />
+</div>  
 
-### <div align="center">I'm Sam, an Arduino Entusiast.</div>  
+# <div align="center">Arduino Developer's</div>  
+
+### <div align="center">I'm Sam, an Informatics Engineer.</div><br/>
   
 
 - 👨‍🎓 I’m a colleger undergraduate at [Sumatera Institute of Technology](https://www.itera.ac.id/)  
