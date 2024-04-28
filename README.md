@@ -1,4 +1,4 @@
-# <div align="center">Software Engineer</div>  
+# <div align="center">Informatics Engineer</div>  
 
 ### <div align="center">I'm Sam, an Informatics Engineer.</div><br/>
   
