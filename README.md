@@ -3,7 +3,7 @@
 ### <div align="center">I'm Sam, an Informatics Engineer.</div><br/>
   
 
-- 👨‍🎓 A Bachelor from [Sumatera Institute of Technology](https://www.itera.ac.id/)  
+- 👨‍🎓 A Bachelor of Engineering from [Sumatera Institute of Technology](https://www.itera.ac.id/)  
   
 
 - 🖥️Retrieving fields on [Informatics Engineering](http://if.itera.ac.id/)  
